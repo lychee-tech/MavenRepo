@@ -65,6 +65,7 @@
                     <repositoryName>MavenRepo</repositoryName>
                     <repositoryOwner>wenhao888</repositoryOwner>
                     <path>releases</path>
+                    <merge>true</merge>
                 </configuration>
                 <executions>
                     <execution>
